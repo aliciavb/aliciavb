@@ -1,9 +1,9 @@
 # Hola! Soy Alicia 👩🏽‍💻✨
 ![Static Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=White)
 
-Actualmente trabajo como UX Designer creando distintas webs en un equipo de Comunicación y Marketing. Con 3 años de experiencia en HTML y CSS con CMS, desarrollo a diario con WordPress, creando varias webs con constructores como Divi, landings e incluso un ecommerce virtual utilizando WooCommerce
+Diseñadora Web UX con experiencia en diseño y desarrollo de sitios web con WordPress, Figma, HTML, CSS y Stack MERN (MongoDB, Express, React.js, Node.js). Actualmente desarrollo proyectos en 42 Madrid, el campus de programación de Fundación Telefónica.
 
-Estoy comenzando en el mundo del desarrollo MERN para ampliar mi stack. Recientemente construí mi primera aplicación en React, que puedes encontrar en el repositorio **[letterboxd-copycat](https://github.com/aliciavb/letterboxd-copycat)**. Además, configuré una API de Express para complementar la aplicación, y puedes explorarla **[aquí](https://github.com/aliciavb/letterboxd-api)**
+Recientemente construí mi primera aplicación en React, que puedes encontrar en el repositorio **[letterboxd-copycat](https://github.com/aliciavb/letterboxd-copycat)**. Además, configuré una API de Express para complementar la aplicación, y puedes explorarla **[aquí](https://github.com/aliciavb/letterboxd-api)**
 
 Además de la parte de desarrollo, estudié Bellas Artes y Diseño, por lo que comencé en diseño UX trabajando diariamente con herramientas como Figma y el pack Adobe
 
