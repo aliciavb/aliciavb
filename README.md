@@ -10,8 +10,3 @@ Además de la parte de desarrollo, estudié Bellas Artes y Diseño, por lo que c
 🐈‍⬛ **Muchas gracias por pasarte!** 🐈‍⬛
 
 Contáctame en linkedin o en  **[alivinals@gmail.com](mailto:alivinals+githubreadme@gmail.com)** 💌
-  
-<!---
-aliciavb/aliciavb es un ✨ repositorio especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.
-Puedes hacer clic en el enlace de Vista previa para ver tus cambios.
---->
