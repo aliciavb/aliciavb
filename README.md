@@ -5,4 +5,4 @@ Diseñadora Web UX con experiencia en diseño y desarrollo de sitios web con Wor
 
 🐈‍⬛ **Muchas gracias por pasarte!** 🐈‍⬛
 
-Contáctame en **[linkedin](https://www.linkedin.com/in/alicia-vb/)** o en **[alivinals@gmail.com](mailto:alivinals+githubreadme@gmail.com)** 💌
+Contáctame en **<a href="https://www.linkedin.com/in/alicia-vb/" target="_blank">linkedin</a>** o en **<a href="mailto:alivinals+githubreadme@gmail.com" target="_blank">alivinals@gmail.com</a>** 💌
