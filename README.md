@@ -1,7 +1,7 @@
 # Hola! Soy Alicia 👩🏽‍💻✨
 <a href="https://www.linkedin.com/in/alicia-vb/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Diseñadora Web UX con experiencia en diseño y desarrollo de sitios web con WordPress, Figma, HTML, CSS y Stack MERN (MongoDB, Express, React.js, Node.js). Actualmente desarrollo proyectos en 42 Madrid, aprendiendo C en entorno Linux, el campus de programación de Fundación Telefónica. Además de la parte de desarrollo, estudié Bellas Artes y Diseño, por lo que comencé en diseño UX trabajando diariamente con herramientas como Figma y el pack Adobe
+Desarrolladora y diseñadora con base en programación en C y sistemas Linux gracias a mi formación en 42 Madrid, combinada con experiencia previa en diseño web UX, front-end y trabajo con equipos multidisciplinares de desarrollo y marketing. Interesada en resolución de problemas, depuración de sistemas y desarrollo de software.
 
 🐈‍⬛ **Muchas gracias por pasarte!** 🐈‍⬛
 
