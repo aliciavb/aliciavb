@@ -5,4 +5,4 @@ Desarrolladora y diseñadora con base en programación en C y sistemas Linux gra
 
 🐈‍⬛ **Muchas gracias por pasarte!** 🐈‍⬛
 
-Contáctame en **<a href="https://www.linkedin.com/in/alicia-vb/" target="_blank">linkedin</a>** o en **<a href="mailto:alivinals+githubreadme@gmail.com" target="_blank">alivinals@gmail.com</a>** 💌
+Contáctame en **<a href="https://www.linkedin.com/in/alicia-vb/" target="_blank">linkedin</a>** o en **<a href="mailto:aliciavinalsb+githubreadme@gmail.com" target="_blank">aliciavinalsb@gmail.com</a>** 💌
